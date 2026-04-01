@@ -1,9 +1,9 @@
-package com.ramstudio.bandingharga.ui
+package com.ramstudio.bandingharga.ui.presentation.dashboard
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
-import com.ramstudio.bandingharga.analytics.AnalyticsTracker
+import com.ramstudio.bandingharga.ui.presentation.analytics.AnalyticsTracker
 import com.ramstudio.bandingharga.model.StoreInput
 import com.ramstudio.bandingharga.model.StoreResult
 import kotlinx.coroutines.flow.MutableStateFlow

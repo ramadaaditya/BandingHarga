@@ -1,4 +1,4 @@
-package com.ramstudio.bandingharga.ui
+package com.ramstudio.bandingharga.utils
 
 import java.text.NumberFormat
 import java.util.Currency

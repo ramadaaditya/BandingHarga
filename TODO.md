@@ -1,0 +1,5 @@
+ - Implement hilt DI
+ - Implement Room database
+ - Implement ViewModel
+ - Implement Crashlytics
+ - Implement Admob 

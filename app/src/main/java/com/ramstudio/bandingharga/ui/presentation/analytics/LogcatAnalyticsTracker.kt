@@ -1,4 +1,4 @@
-package com.ramstudio.bandingharga.analytics
+package com.ramstudio.bandingharga.ui.presentation.analytics
 
 import android.util.Log
 
