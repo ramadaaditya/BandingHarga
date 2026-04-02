@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="deep_teal">#FF1F4E5F</color>
+    <color name="moss_green">#FF3F6B58</color>
+    <color name="amber_gold">#FFF0B35D</color>
+    <color name="warm_sand">#FFF7F3EE</color>
+    <color name="night_ink">#FF0F1E24</color>
+    <color name="soft_slate">#FF5B6B73</color>
+
+    <color name="surface_dark">#FF16262D</color>
+    <color name="surface_variant_dark">#FF22333A</color>
+    <color name="on_surface_variant_dark">#FFB7C3C9</color>
+    <color name="outline_dark">#FF7C8D94</color>
+
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="surface_variant_light">#FFF0E6DA</color>
+    <color name="on_surface_variant_light">#FF5B6B73</color>
+    <color name="outline_light">#FF5B6B73</color>
+
+    <color name="highlight_gold">#FFFFD166</color>
+    <color name="discount_green">#FF2E7D32</color>
+    <color name="fee_red">#FFD64545</color>
+
+    <color name="error_container_light">#FFFDE6E6</color>
+    <color name="on_error_container_light">#FF4A1111</color>
+    <color name="error_container_dark">#FF5E1B1B</color>
+    <color name="on_error_container_dark">#FFFFD9D9</color>
 </resources>

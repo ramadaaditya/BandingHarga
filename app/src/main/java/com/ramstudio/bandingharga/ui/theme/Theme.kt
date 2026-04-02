@@ -17,12 +17,19 @@ private val DarkColorScheme = darkColorScheme(
     secondary = MossGreen,
     tertiary = HighlightGold,
     background = NightInk,
-    surface = Color(0xFF16262D),
+    surface = SurfaceDark,
+    surfaceVariant = SurfaceVariantDark,
     onPrimary = NightInk,
     onSecondary = Color.White,
     onTertiary = NightInk,
     onBackground = Color(0xFFE9EEF0),
-    onSurface = Color(0xFFE9EEF0)
+    onSurface = Color(0xFFE9EEF0),
+    onSurfaceVariant = OnSurfaceVariantDark,
+    outline = OutlineDark,
+    error = ErrorRed,
+    onError = Color.White,
+    errorContainer = ErrorContainerDark,
+    onErrorContainer = OnErrorContainerDark
 )
 
 private val LightColorScheme = lightColorScheme(
@@ -30,12 +37,19 @@ private val LightColorScheme = lightColorScheme(
     secondary = MossGreen,
     tertiary = AmberGold,
     background = WarmSand,
-    surface = Color.White,
+    surface = SurfaceLight,
+    surfaceVariant = SurfaceVariantLight,
     onPrimary = Color.White,
     onSecondary = Color.White,
     onTertiary = Color(0xFF2A1E0C),
     onBackground = NightInk,
-    onSurface = NightInk
+    onSurface = NightInk,
+    onSurfaceVariant = OnSurfaceVariantLight,
+    outline = OutlineLight,
+    error = ErrorRed,
+    onError = Color.White,
+    errorContainer = ErrorContainerLight,
+    onErrorContainer = OnErrorContainerLight
 )
 
 @Composable
